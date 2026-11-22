@@ -1,0 +1,14 @@
+{
+    "name": "ToanLB.SingletonProblem",
+    "rootNamespace": "ToanLB.SingletonProblem",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
