@@ -566,6 +566,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bootstrapper: {fileID: 1100000005}
   beforeCombatController: {fileID: 1100000008}
+  thumbnailTexture: {fileID: 2800000, guid: 1de909e072a64d93a9e4916523232468, type: 3}
+  showThumbnailInGameView: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
