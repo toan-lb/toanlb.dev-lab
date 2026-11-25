@@ -23,7 +23,7 @@ Dự án này là chuỗi mã nguồn mẫu đi kèm các bài phân tích chuy�
 
 | # | Chuyên đề kiến trúc (Topic) | Git Branch | Số bài | Trạng thái |
 |---|---|---|---|---|
-| **01** | **Dependency Injection & Decoupling** | [`unity-architecture-di`](https://github.com/toan-lb/unity-architecture-di/tree/unity-architecture-di) | 5–7 bài | 🚀 Đang phát triển |
+| **01** | **Dependency Injection & Decoupling** | [`unity-architecture-di`](https://github.com/toan-lb/toanlb.dev-lab/tree/unity-architecture-di) | 5–7 bài | 🚀 Đang phát triển |
 | **02** | Observer Pattern & Late-Join State Replay | `unity-architecture-observer` | 5 bài | 📅 Sắp ra mắt |
 | **03** | Model-View-Presenter (MVP) & Clean UI | `unity-architecture-mvp` | 5 bài | 📅 Sắp ra mắt |
 | **04** | Object Pooling & Zero GC Memory Alloc | `unity-architecture-pooling` | 5 bài | 📅 Sắp ra mắt |
@@ -38,8 +38,8 @@ Khi clone repository về máy, bạn chỉ cần chuyển sang branch của top
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/toan-lb/unity-architecture-di.git
-cd unity-architecture-di
+git clone https://github.com/toan-lb/toanlb.dev-lab.git
+cd toanlb.dev-lab
 
 # 2. Chuyển sang topic Dependency Injection (Bài 01 - Singleton Problem & Pure C# DI)
 git checkout unity-architecture-di
