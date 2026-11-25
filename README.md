@@ -4,7 +4,7 @@
   <img src="Assets/Images/Thumbnail_Engineering_Lab.png" alt="Unity Architecture Engineering Lab" width="100%" />
 
   <p align="center">
-    <b>Kho lưu trữ mã nguồn & kiến trúc thực chiến cho các dự án Unity chuyên nghiệp.</b><br />
+    <b>Kho lưu trữ mã nguồn kiểm thử cho các bài viết trên blog toanlb.dev.</b><br />
     Tác giả: <b>Lương Bảo Toàn</b> • Blog: <a href="https://toanlb.dev">toanlb.dev</a>
   </p>
 </div>
